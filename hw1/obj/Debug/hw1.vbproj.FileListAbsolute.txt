@@ -1,0 +1,12 @@
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\bin\Debug\hw1.xml
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.vbproj.AssemblyReference.cache
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.frmNumbers.resources
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.Resources.resources
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.vbproj.GenerateResource.cache
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.vbproj.CoreCompileInputs.cache
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.xml
+C:\Users\hickson_arrionne\source\repos\hw1\hw1\obj\Debug\hw1.pdb
